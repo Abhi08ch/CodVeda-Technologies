@@ -20,10 +20,6 @@ Welcome! This repository contains all my completed tasks during the **Machine Le
 └── churn-bigml-80.csv
 └── house prediction.csv
 
-markdown
-Copy
-Edit
-
 ---
 
 ## ✅ Task List and Highlights
