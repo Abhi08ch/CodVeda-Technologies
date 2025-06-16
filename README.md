@@ -7,28 +7,18 @@ Welcome! This repository contains all my completed tasks during the **Machine Le
 ## 📁 Project Structure
 
 📦 Codveda-Technologies-ML
+
 ├── Task 1 - Data Preprocessing.ipynb
-
 ├── Task 2 - Linear Regression.ipynb
-
 ├── Task 3 - KNN Classifier.ipynb
-
 ├── Task 4 - Logistic Regression.ipynb
-
 ├── Task 5 - Decision Tree Classifier.ipynb
-
 ├── Task 6 - K-Means Clustering.ipynb
-
 ├── Task 7 - Random Forest Classifier.ipynb
-
 ├── Task 8 - SVM Classifier.ipynb
-
 ├── Task 9 - Neural Network with Keras.ipynb
-
 └── datasets/
-
 └── churn-bigml-80.csv
-
 └── house prediction.csv
 
 ---
