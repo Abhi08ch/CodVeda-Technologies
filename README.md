@@ -1,3 +1,4 @@
+
 # Codveda Technologies – Machine Learning Internship
 
 Welcome! This repository contains all my completed tasks during the **Machine Learning Internship** at [Codveda Technologies](http://www.codveda.com/). The project consists of practical implementations across basic, intermediate, and advanced ML tasks using Python and popular libraries like scikit-learn, TensorFlow, and Keras.
@@ -6,8 +7,8 @@ Welcome! This repository contains all my completed tasks during the **Machine Le
 
 ## 📁 Project Structure
 
+```
 📦 Codveda-Technologies-ML
-
 ├── Task 1 - Data Preprocessing.ipynb
 ├── Task 2 - Linear Regression.ipynb
 ├── Task 3 - KNN Classifier.ipynb
@@ -18,8 +19,9 @@ Welcome! This repository contains all my completed tasks during the **Machine Le
 ├── Task 8 - SVM Classifier.ipynb
 ├── Task 9 - Neural Network with Keras.ipynb
 └── datasets/
-└── churn-bigml-80.csv
-└── house prediction.csv
+    ├── churn-bigml-80.csv
+    └── house prediction.csv
+```
 
 ---
 
@@ -64,18 +66,25 @@ Welcome! This repository contains all my completed tasks during the **Machine Le
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/Codveda-Technologies-ML.git
-Open each .ipynb notebook in Google Colab or Jupyter Notebook
+   ```
+2. Open each `.ipynb` notebook in **Google Colab** or **Jupyter Notebook**
+3. Make sure `datasets/` folder is available in the same directory
 
-Make sure datasets/ folder is available in the same directory
+---
 
-📌 Internship Reflections
+## 📌 Internship Reflections
+
 This internship provided hands-on exposure to real-world machine learning workflows—from preprocessing to advanced modeling. It strengthened my understanding of:
+- Model evaluation & tuning
+- Importance of clean data pipelines
+- Comparing traditional ML models vs neural networks
 
-Model evaluation & tuning
+---
 
-Importance of clean data pipelines
+## 🔗 Connect with Me
 
-Comparing traditional ML models vs neural networks
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhimanyu-chauhan-3b6381238)
 
-🔗 Connect with Me
-💼 LinkedIn: https://www.linkedin.com/in/abhimanyu-chauhan-3b6381238
+---
+
+**#CodvedaJourney #MachineLearning #AI #FutureWithCodveda**
